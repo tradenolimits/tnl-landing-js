@@ -1,4 +1,4 @@
-import { GlowParticle } from 'https://cdn.jsdelivr.net/gh/tradenolimits/tnl-landing-js@v1.0.1/glowparticle';
+import { GlowParticle } from 'https://cdn.jsdelivr.net/gh/tradenolimits/tnl-landing-js@v1.0.1/glowparticle.js';
 
 const COLORS = [
   {r: 235, g: 123, b: 29},
