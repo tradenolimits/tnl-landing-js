@@ -68,5 +68,6 @@ class App {
 }
 
 window.onLoad = () => {
+  console.log('Particles!!!')
   new App();
 }
